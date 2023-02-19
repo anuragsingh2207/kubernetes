@@ -1,3 +1,3 @@
 # Kubernetes
-This repo contains sample kubernetes manifests.
+This repo contains sample kubernetes manifest files.
 
